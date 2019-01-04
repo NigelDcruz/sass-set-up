@@ -23,3 +23,18 @@ sudo gem install sass
 ```
 DONE! We're all set up.
 
+
+## Windows
+The process is much simpler on windows. Go to this [Link](https://rubyinstaller.org/downloads/) and choose which version to install. Find the 2.1.x link, and choose the (x64) version if your PC is running the 64-bit version.
+
+Once downloaded, run the setup like how you would for normally do for any other program.
+After you’ve installed Ruby, you need to confirm that Ruby is installed. To do that,  open up the Command Prompt and type:
+```
+ruby -v
+```
+After confirming, the last step is to install SASS:
+
+```
+gem install sass
+```
+That's all! Now you can start using SASS in your projects.
