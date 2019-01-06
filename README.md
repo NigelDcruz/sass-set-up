@@ -1,5 +1,5 @@
 # SASS for NOOBS!
-Sass is nothing but a CSS preproccessor. It helps you write faster css.
+Sass is nothing but a CSS preprocessor. It helps you write faster css.
 It's easier than you think! In this tutorial, we'll install sass on our computer.
 Sass runs on Ruby. No need to worry if you don't know anything about Ruby. You just have to have it on your computer.
 
